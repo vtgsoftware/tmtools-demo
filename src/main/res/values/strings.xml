@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMTools Demo</string>
+
+    <!--Main-->
+    <string name="action_activity_main_crashes">CRASHES</string>
+    <string name="action_activity_main_mls">MLS</string>
+    <string name="label_activity_main_the_mobile_tools">TMTOOLS DEMO APPLICATION</string>
+
+    <!--MLS-->
+    <string name="action_activity_mls_title"/>
+    <string name="label_activity_mls_the_mobile_tools"/>
+    <string name="label_activity_mls_tools"/>
+    <string name="input_activity_mls_tools"/>
+    <string name="action_activity_mls_tools"/>
+    <string name="action_activity_mls_menu1"/>
+    <string name="action_activity_mls_menu2"/>
+    <string name="action_activity_mls_menu3"/>
+
+    <!-- Crash-->
+    <string name="action_activity_crashes_null">Null</string>
+    <string name="action_activity_crashes_oom">Illegal Argument</string>
+    <string name="action_activity_crashes_thread">in Thread</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--main-->
+
+    <dimen name="point_dp">1dp</dimen>
+    <dimen name="layout_activity_main_margin_vertical">25dp</dimen>
+    <dimen name="layout_activity_main_margin_horizontal">20dp</dimen>
+    <dimen name="action_activity_main_margin_margin_horizontal">10dp</dimen>
+    <dimen name="action_activity_main_height">45dp</dimen>
+    <dimen name="label_activity_main_text_size">20sp</dimen>
+    <dimen name="label_activity_main_the_mobile_tools__text_size">22sp</dimen>
+    <dimen name="image_activity_main_margin_top">15dp</dimen>
+
+    <!--MLS-->
+    <dimen name="label_activity_mls_tools_width">170dp</dimen>
+    <dimen name="label_activity_mls_tools_margin_top">30dp</dimen>
+
+    <!--Crashes-->
+    <dimen name="label_activity_crashes_tools_margin_top">15dp</dimen>
+    <dimen name="layout_activity_crashes_tools_margin_top">10dp</dimen>
+
+    <!--Action bar-->
+    <dimen name="layout_action_bar_height">50dp</dimen>
+    <dimen name="image_action_bar_padding_vertical_back">10dp</dimen>
+    <dimen name="image_action_bar_padding_left_back">5dp</dimen>
+    <dimen name="image_action_bar_padding_menu">12dp</dimen>
+    <dimen name="image_action_bar_width_logo">60dp</dimen>
+</resources>

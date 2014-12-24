@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:mls="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/test_menu_2"
+            mls:title="@string/label_activity_mls_tools"
+            android:title="@string/label_activity_mls_tools"/>
+
+        <item
+            android:id="@+id/test_menu_1"
+            mls:title="@string/label_activity_mls_tools"
+            android:title="@string/label_activity_mls_tools"/>
+
+</menu>
